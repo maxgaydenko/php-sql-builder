@@ -1,0 +1,19 @@
+{
+ "name": "maxgaydenko/sqlbuilder",
+ "description": "Simple php sql builder lib",
+ "type": "library",
+ "license": "MIT",
+ "authors": [
+  {
+   "name": "Max Gaydenko",
+   "email": "max@gaydenko.ru"
+  }
+ ],
+ "minimum-stability": "stable",
+ "require": {
+  "php": ">=5.4"
+ },
+ "autoload": {
+  "MaxGaydenko\\SqlBuilder\\": "lib/"
+ }
+}
